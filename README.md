@@ -1,5 +1,5 @@
 # bw
-_**Bitwarden Zsh plugin**_ - provides formatting options and easy acces to credentails stored in Bitwarden via the **Bitwarden CLI**.
+_**Bitwarden Zsh plugin**_ - provides formatting options and easy access to credentials stored in Bitwarden via the **Bitwarden CLI**.
 The plugin tries to retrieve a valid session before each action, therefore an explicit login is not nescessary beforehand.
 
 ## Requirements
